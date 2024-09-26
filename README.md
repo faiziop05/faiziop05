@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://faizan-hanif-portfolio.netlify.app)
 
 <h1 align="center">Hi 👋, I'm Faizan Hanif</h1>
-<h3 line-height: 1.6 align="center" text-align= "justify"  text-indent= "20">
+<h3 line-height: 1.6  text-align= "justify"  text-indent= "20">
   I’m Faizan Hanif, a passionate software developer with a Bachelor’s in Computer Science and over two years of experience in building dynamic applications using HTML, CSS, JavaScript, React, and React Native. My expertise lies in developing responsive web and mobile apps, utilizing modern technologies like Firebase, Redux, and Expo. I’ve worked on a range of projects including e-commerce platforms, CMS systems, and multimedia apps. I'm always eager to learn new skills and take on challenging problems to create scalable solutions.
 </h3>
 
