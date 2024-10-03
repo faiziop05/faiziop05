@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Faizan Hanif</h1>
 <h3 line-height: 1.6  text-align= "justify"  text-indent= "20">
-  I’m Faizan Hanif, a passionate software developer with a Bachelor’s in Computer Science and over two years of experience in building dynamic applications using HTML, CSS, JavaScript, React, and React Native. My expertise lies in developing responsive web and mobile apps, utilizing modern technologies like Firebase, Redux, and Expo. I’ve worked on a range of projects including e-commerce platforms, CMS systems, and multimedia apps. I'm always eager to learn new skills and take on challenging problems to create scalable solutions.
+  I’m Faizan Hanif, a passionate software developer with a Bachelor’s in Computer Science and over two years of experience in building dynamic applications using HTML, CSS, JavaScript, and MERN Stack (MongoDB, Express.js, Node.js, React, and React Native). My expertise lies in developing responsive web and mobile apps, utilizing modern technologies like Firebase, Redux, and Expo. I’ve worked on a range of projects including ,Full stack Blog website, e-commerce platforms, Full stack CMS systems, and multimedia apps. I'm always eager to learn new skills and take on challenging problems to create scalable solutions.
 </h3>
 
 
@@ -11,9 +11,8 @@
 ---
 
 ### 🚀 About Me
-- 🌱 I’m currently learning **Express.js**
-- 💬 Ask me about **React, React Native, MongoDB**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://faizan-hanif-portfolio.netlify.app)
+- 💬 Ask me about **MERN Stack**
+- 👨‍💻 All of my projects are available at [My Portfolio Website](https://faizan-hanif-portfolio.netlify.app) and in my repositories.
 - 📫 How to reach me: **faizanhanif369@gmail.com**
 - 📄 Check out my Resume [here](https://faizan-hanif.tiiny.site)
 
