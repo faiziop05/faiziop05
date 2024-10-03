@@ -15,7 +15,7 @@
 - 💬 Ask me about **React, React Native, MongoDB**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://faizan-hanif-portfolio.netlify.app)
 - 📫 How to reach me: **faizanhanif369@gmail.com**
-- 📄 Check out my experiences [here](https://rose-zenia-6.tiiny.site)
+- 📄 Check out my Resume [here](https://faizan-hanif.tiiny.site)
 
 ---
 
