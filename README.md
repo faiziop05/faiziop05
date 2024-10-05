@@ -74,7 +74,7 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/faizan-hanif-4164a9315" target="blank">
+  <a href="https://www.linkedin.com/in/faizanhanif369 " target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
