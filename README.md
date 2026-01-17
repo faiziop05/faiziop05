@@ -112,7 +112,7 @@ I have professional experience delivering real-world products using:
 
 ## 📊 GitHub Activity
 
-![Profile Views](https://komarev.com/ghpvc/?username=faiziop05&label=Profile%20Views&color=0e75b6&style=flat)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=faiziop05&theme=onestar&no-frame=true&row=1)
 ![Faizan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=faiziop05&theme=tokyo-night)
 
 
