@@ -109,10 +109,6 @@ I have professional experience delivering real-world products using:
 ---
 
 ## 📊 GitHub Stats
-
-## 📊 GitHub Activity
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=faiziop05&theme=onestar&no-frame=true&row=1)
 ![Faizan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=faiziop05&theme=tokyo-night)
 
 
