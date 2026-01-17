@@ -7,52 +7,42 @@
 <h1 align="center">Hi 👋, I'm Faizan Hanif</h1>
 
 <p align="center">
-  Full Stack & Mobile Developer • MERN • React Native (Expo) • Firebase
+  Software Engineer (Full Stack & Mobile) • MERN • React Native • TypeScript
 </p>
 
 <p align="center">
   <a href="https://faizan-hanif-portfolio.netlify.app">Portfolio</a> •
   <a href="https://www.linkedin.com/in/faizanhanif369">LinkedIn</a> •
   <a href="mailto:faizanhanif369@gmail.com">Email</a> •
-  <a href="https://faizan-hanif.tiiny.site">Resume</a>
+  <a href="https://faizan-hanif.tiiny.site">Resume</a> •
+  <a href="https://github.com/faiziop05">GitHub</a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I’m **Faizan Hanif**, a software developer with strong experience building **web and mobile apps** using **JavaScript/TypeScript**, **React**, **React Native (Expo)** and the **MERN stack**.  
-I love building **clean UI**, **real-world features**, and **scalable systems** (auth, APIs, databases, uploads, caching, etc.).
+I’m **Faizan Hanif**, a Software Engineer with a strong background in **Full Stack and Mobile development**.  
+Currently pursuing an **MSc in Advanced Software Engineering (UK)**, with a focus on building **scalable, secure, and user-focused applications**.
 
-- 💬 Ask me about: **React, React Native, MERN, Firebase, Redux**
-- 👨‍💻 Projects: available on my **Portfolio** and **GitHub repos**
-- 📫 Email: **faizanhanif369@gmail.com**
+I have professional experience delivering real-world products using:
+**React, React Native, TypeScript, Node.js, Express, MongoDB, Firebase, AWS, and CI/CD pipelines**.
 
----
-
-## 🔥 Featured Projects (Add your best 4)
-
-> Tip: Keep only your strongest projects here (recruiters love this)
-
-- **MUST Student Console (FYP / MERN CMS)** – student mobile app + faculty web portal
-- **Real-time Chat App** – React + Socket.io + MongoDB + Cloudinary
-- **E-commerce App** – full stack backend + mobile frontend
-- **Wallpaper / Media Apps** – infinite scrolling, caching, API integration
-
-📌 *(I can format these as clickable badges + repo links if you want.)*
+- 💬 Ask me about: **React, React Native, MERN, TypeScript, Firebase**
+- 👨‍💻 All projects available on GitHub & Portfolio
+- 📫 Reach me at: **faizanhanif369@gmail.com**
 
 ---
 
 ## 🧰 Tech Stack
 
-**Frontend:** React, React Native (Expo), HTML, CSS  
-**Backend:** Node.js, Express.js, REST APIs  
-**Database:** MongoDB, Firestore  
-**Tools:** Git, Postman, Redux Toolkit, Firebase Auth/Storage
+**Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3  
+**Frontend & Mobile:** React.js, Next.js, React Native, Redux Toolkit, Tailwind CSS  
+**Backend & Database:** Node.js, Express.js, MongoDB, Firebase, SQL  
+**Testing & DevOps:** Jest, React Testing Library, CI/CD (GitHub Actions), AWS (S3, EC2)  
+**Tools & Practices:** Git/GitHub, Postman, Jira, Agile/Scrum, GDPR Awareness  
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="38" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="38" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="38" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="38" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="38" />
@@ -67,11 +57,62 @@ I love building **clean UI**, **real-world features**, and **scalable systems** 
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Experience
+
+### 📱 Mobile Application Developer — PrograminStudio (Dec 2024 – Apr 2025)
+- Built cross-platform mobile apps using **React Native + TypeScript**
+- Achieved **1,000+ active users** in first month after launch
+- Integrated **Stripe payments** (PCI-DSS, GDPR compliant)
+- Implemented **i18n multilingual support** + WCAG accessibility
+- Improved performance by **30%** via optimization & caching
+- Worked in **Agile/Scrum** environment with full on-time delivery
+
+### 🌐 Intern Web Developer — Orbit Cosmos (Sept 2024 – Oct 2024)
+- Optimized React apps → improved load speed by **20%**
+- Built REST APIs with **Node.js + Express + JWT authentication**
+- Used Git workflow → reduced merge conflicts by **30%**
+
+---
+
+## 📌 Featured Projects
+
+### 🟢 Linco (Marketplace App)
+**Stack:** React Native, Node.js, Express, MongoDB, Socket.io  
+- Cross-platform app with **1,000+ users in first month**
+- Built real-time product listing and cart system  
+🔗 App Store | Play Store
+
+---
+
+### 🔐 LifeVault (Secure Personal Vault App)
+**Stack:** React Native, TypeScript, MongoDB, Encryption  
+- Built 4 modules for images, videos, audio, and secure text  
+- Focused on privacy, offline access and security  
+🔗 GitHub Repository
+
+---
+
+### 🛒 Kokonano (Client App – Kuwait)
+**Stack:** React Native, Redux, Firebase  
+- Delivered production-ready client apps  
+- Increased client satisfaction by **30%**  
+🔗 App Store | Play Store
+
+---
+
+### 🎓 MUST Student Console (FYP – MERN CMS)
+**Stack:** MongoDB, Express, React, Node.js  
+- Rebuilt university CMS with **role-based access (RBAC)**
+- Improved security & reliability by **40%**  
+🔗 GitHub Repository
+
+---
+
+## 📊 GitHub Stats (Working 2026 URLs)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=faiziop05&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faiziop05&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=faiziop05&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
