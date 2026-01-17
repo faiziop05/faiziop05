@@ -110,26 +110,12 @@ I have professional experience delivering real-world products using:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=faiziop05&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Faizan's GitHub stats"
-  />
-</p>
+## 📊 GitHub Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=faiziop05&theme=tokyonight&hide_border=true"
-    alt="Faizan's GitHub streak"
-  />
-</p>
+![Faizan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=faiziop05&theme=tokyo-night)
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiziop05&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top languages"
-  />
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=faiziop05&theme=tokyonight&no-frame=true&row=1)
+
 
 
 ---
