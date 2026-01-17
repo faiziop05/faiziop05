@@ -108,16 +108,29 @@ I have professional experience delivering real-world products using:
 
 ---
 
-## 📊 GitHub Stats (Working 2026 URLs)
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faiziop05&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://streak-stats.demolab.com?user=faiziop05&theme=tokyonight&hide_border=true" height="165" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=faiziop05&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Faizan's GitHub stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiziop05&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=faiziop05&theme=tokyonight&hide_border=true"
+    alt="Faizan's GitHub streak"
+  />
 </p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiziop05&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top languages"
+  />
+</p>
+
 
 ---
 
