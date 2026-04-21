@@ -14,7 +14,7 @@
   <a href="https://faizan-hanif-portfolio.netlify.app">Portfolio</a> •
   <a href="https://www.linkedin.com/in/faizanhanif369">LinkedIn</a> •
   <a href="mailto:faizanhanif369@gmail.com">Email</a> •
-  <a href="https://faizan-hanif.tiiny.site">Resume</a> •
+  <a href="https://https://drive.google.com/file/d/1PpZwyO-d0fBEnhNoFzeG9PEFQr7up1Rd/view?usp=drive_link">Resume</a> •
   <a href="https://github.com/faiziop05">GitHub</a>
 </p>
 
