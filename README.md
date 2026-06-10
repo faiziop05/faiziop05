@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Faizan Hanif</h1>
 
 <p align="center">
-  Software Engineer (Full Stack & Mobile) • MERN • React Native • TypeScript
+  Software Engineer (Full Stack & Mobile) • MERN • React Native • Kotlin
 </p>
 
 <p align="center">
@@ -22,25 +22,24 @@
 
 ## 🚀 About Me
 
-I’m **Faizan Hanif**, a Software Engineer with a strong background in **Full Stack and Mobile development**.  
-Currently pursuing an **MSc in Advanced Software Engineering (UK)**, with a focus on building **scalable, secure, and user-focused applications**.
+I build value. The delivery method is usually a web or mobile application.
 
-I have professional experience delivering real-world products using:
-**React, React Native, TypeScript, Node.js, Express, MongoDB, Firebase, AWS, and CI/CD pipelines**.
+I am a Software Engineer with a strong background in **Full Stack and Mobile development**. I hold an **MSc in Advanced Software Engineering (UK)** and focus on building scalable, secure, and user-friendly applications.
 
-- 💬 Ask me about: **React, React Native, MERN, TypeScript, Firebase**
-- 👨‍💻 All projects available on GitHub & Portfolio
+From shipping cross-platform apps to the Play Store and App Store to building full-stack marketplaces, I handle everything from UI design and state management to backend architecture and store submissions. 
+
+- 💬 Ask me about: **React Native, MERN, Kotlin, Expo, Firebase**
+- 👨‍💻 All projects available on my GitHub & Portfolio
 - 📫 Reach me at: **faizanhanif369@gmail.com**
 
 ---
 
 ## 🧰 Tech Stack
 
-**Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3  
-**Frontend & Mobile:** React.js, Next.js, React Native, Redux Toolkit, Tailwind CSS  
-**Backend & Database:** Node.js, Express.js, MongoDB, Firebase, SQL  
-**Testing & DevOps:** Jest, React Testing Library, CI/CD (GitHub Actions), AWS (S3, EC2)  
-**Tools & Practices:** Git/GitHub, Postman, Jira, Agile/Scrum, GDPR Awareness  
+**Languages:** JavaScript, TypeScript, Kotlin, HTML5, CSS3  
+**Frontend & Mobile:** React.js, React Native, Expo, Redux Toolkit, Tailwind CSS  
+**Backend & Database:** Node.js, Express.js, MongoDB, Firebase, SQLite  
+**Tools & Practices:** Git/GitHub, Postman, CI/CD, Agile/Scrum  
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="38" />
@@ -49,10 +48,9 @@ I have professional experience delivering real-world products using:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="38" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="38" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="38" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="38" />
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="38" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="38" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="38" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="38" />
 </p>
 
 ---
@@ -60,60 +58,45 @@ I have professional experience delivering real-world products using:
 ## 💼 Experience
 
 ### 📱 Mobile Application Developer — PrograminStudio (Dec 2024 – Apr 2025)
-- Built cross-platform mobile apps using **React Native + TypeScript**
-- Achieved **1,000+ active users** in first month after launch
-- Integrated **Stripe payments** (PCI-DSS, GDPR compliant)
-- Implemented **i18n multilingual support** + WCAG accessibility
-- Improved performance by **30%** via optimization & caching
-- Worked in **Agile/Scrum** environment with full on-time delivery
+- Architected and shipped three production React Native apps (including Linco and Kokonano) to Google Play and the App Store.
+- Led a full platform rebuild from scratch, implementing Redux Toolkit and RTL layout with i18n localization.
+- Integrated native Android dependencies in Kotlin for Stripe and PayPal.
 
-### 🌐 Intern Web Developer — Orbit Cosmos (Sept 2024 – Oct 2024)
-- Optimized React apps → improved load speed by **20%**
-- Built REST APIs with **Node.js + Express + JWT authentication**
-- Used Git workflow → reduced merge conflicts by **30%**
+### 🌐 Web Development Intern — Orbit Cosmos (Sept 2024 – Oct 2024)
+- Reduced page load times by **20%** through lazy loading and image optimization.
+- Built REST APIs secured with JWT authentication using the MERN stack.
 
 ---
 
 ## 📌 Featured Projects
 
-### 🟢 Linco (Marketplace App)
-**Stack:** React Native, Node.js, Express, MongoDB, Socket.io  
-- Cross-platform app with **1,000+ users in first month**
-- Built real-time product listing and cart system  
-🔗 App Store | Play Store
+### 🛒 TechMarketPK (Second-Hand Tech Marketplace)
+**Stack:** MERN Stack  
+- Founded and built a dedicated platform to solve spam in tech sales.
+- Engineered automated hardware lookups and identity verification to ensure authentic listings.
+🔗 [Live Website](https://www.techmarketpk.com)
 
----
+### 📓 Void Ultra (Private Journal)
+**Stack:** React Native, Expo, SQLite  
+- Fully offline, zero-cloud journal app featuring local SQLite encryption and biometric authentication.
+- Built a local smart tagging and fast search indexing system.
+🔗 [Play Store](https://play.google.com/store/apps/details?id=com.faiziop05.VoidUltra) 
 
-### 🔐 LifeVault (Secure Personal Vault App)
-**Stack:** React Native, TypeScript, MongoDB, Encryption  
-- Built 4 modules for images, videos, audio, and secure text  
-- Focused on privacy, offline access and security  
-🔗 GitHub Repository
+### 🎮 UnPlug (Digital Detox & Habit Tracker)
+**Stack:** React Native, Firebase, RevenueCat  
+- Live on the Play Store, offering gamified habit tracking with XP progression and streaks.
+- Handles secure authentication, real-time sync, and subscription management.
+🔗 [Play Store](https://play.google.com/store/apps/details?id=com.faiziop05.UnPlug)
 
----
-
-### 🛒 Kokonano (Client App – Kuwait)
-**Stack:** React Native, Redux, Firebase  
-- Delivered production-ready client apps  
-- Increased client satisfaction by **30%**  
-🔗 App Store | Play Store
-
----
-
-### 🎓 MUST Student Console (FYP – MERN CMS)
-**Stack:** MongoDB, Express, React, Node.js  
-- Rebuilt university CMS with **role-based access (RBAC)**
-- Improved security & reliability by **40%**  
-🔗 GitHub Repository
+### 🟢 Linco & Kokonano (Production Client Apps)
+**Stack:** React Native, Redux, Node.js, MongoDB  
+- Built real-time e-commerce platforms serving the GCC market with full Arabic RTL support.
+- Handled native Android integrations and full store release pipelines.
 
 ---
 
 ## 📊 GitHub Stats
 ![Faizan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=faiziop05&theme=tokyo-night)
-
-
-
-
 
 ---
 
@@ -126,10 +109,4 @@ I have professional experience delivering real-world products using:
   <a href="mailto:faizanhanif369@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" />
   </a>
-</p>
-
----
-
-<p align="center">
-  ⭐ If you like my work, consider starring my repositories!
 </p>
