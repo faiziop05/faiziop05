@@ -1,112 +1,81 @@
-<p align="center">
-  <a href="https://faizan-hanif-portfolio.netlify.app">
-    <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" alt="Header" />
-  </a>
-</p>
-
-<h1 align="center">Hi 👋, I'm Faizan Hanif</h1>
+<h1 align="center">Faizan Hanif</h1>
+<h3 align="center">Graduate Software Engineer — Full Stack & Mobile</h3>
 
 <p align="center">
-  Software Engineer (Full Stack & Mobile) • MERN • React Native • Kotlin
+  <a href="https://faizan-hanif-portfolio.netlify.app">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/faizanhanif369">LinkedIn</a> ·
+  <a href="mailto:faizanhanif369@gmail.com">Email</a> ·
+  <a href="https://drive.google.com/file/d/1UZfg7ilZSLa1zNLpyZvBEcKhDzVvAqLL/view?usp=share_link">CV</a>
 </p>
 
 <p align="center">
-  <a href="https://faizan-hanif-portfolio.netlify.app">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/faizanhanif369">LinkedIn</a> •
-  <a href="mailto:faizanhanif369@gmail.com">Email</a> •
-  <a href="https://drive.google.com/file/d/1UZfg7ilZSLa1zNLpyZvBEcKhDzVvAqLL/view?usp=share_link">Resume</a> •
-  <a href="https://github.com/faiziop05">GitHub</a>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 About Me
+### About
 
-I build value. The delivery method is usually a web or mobile application.
+I'm a Graduate Software Engineer finishing an MSc in Advanced Software Engineering at the University of Leicester (Distinction track, ~80%), building full-stack web and cross-platform mobile applications with React, React Native, Node.js and MongoDB — with native Android work in Kotlin.
 
-I am a Software Engineer with a strong background in **Full Stack and Mobile development**. I hold an **MSc in Advanced Software Engineering (UK)** and focus on building scalable, secure, and user-friendly applications.
+Recent focus: a production real-time classroom platform (WebSockets, RBAC, live sync for 30+ concurrent users) built for a UK corporate partner as my MSc industry dissertation. Before that, two years of commercial mobile and web development shipping apps to the App Store and Google Play.
 
-From shipping cross-platform apps to the Play Store and App Store to building full-stack marketplaces, I handle everything from UI design and state management to backend architecture and store submissions. 
-
-- 💬 Ask me about: **React Native, MERN, Kotlin, Expo, Firebase**
-- 👨‍💻 All projects available on my GitHub & Portfolio
-- 📫 Reach me at: **faizanhanif369@gmail.com**
+Currently exploring: **agentic AI tooling in the dev workflow** (Claude Code, Codex, Copilot) and looking for a **Graduate Software Engineer role in the UK**.
 
 ---
 
-## 🧰 Tech Stack
+### Experience
 
-**Languages:** JavaScript, TypeScript, Kotlin, HTML5, CSS3  
-**Frontend & Mobile:** React.js, React Native, Expo, Redux Toolkit, Tailwind CSS  
-**Backend & Database:** Node.js, Express.js, MongoDB, Firebase, SQLite  
-**Tools & Practices:** Git/GitHub, Postman, CI/CD, Agile/Scrum  
+**Software Engineer — MSc Industry Dissertation Project**
+*Sidefest / UniworX, United Kingdom · Jun 2026 – Sep 2026*
+Built a full-stack real-time classroom platform (React, Redux, Node/Express, MongoDB, Socket.io) supporting 30+ simultaneous students, with JWT-based RBAC across four role types and a secure server-side Google Drive connector. Cut admin table load times by ~40% with server-side pagination and debounced search.
+🔗 [Live site](https://frontend-pink-rho-s0gl23uxb5.vercel.app/login) · [Repo](https://github.com/faiziop05/FestifyEdu-UoL-)
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="38" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="38" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="38" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="38" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="38" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="38" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="38" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="38" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="38" />
-</p>
+**Mobile Application Developer**
+*PrograminStudio, Rawalpindi, Pakistan · Dec 2024 – Apr 2025*
+Shipped production React Native apps to the App Store and Google Play. Rebuilt the Kokonano app with RTL support and a scalable localisation system; built a multi-step Stripe/PayPal checkout for Linco that boosted conversion in the Kuwait market; cut bundle size ~22% via Gradle pipelines, Hermes and code-splitting.
+
+**Web Developer Intern**
+*Orbit Cosmos, Rawalpindi, Pakistan · Sep 2024 – Oct 2024*
+Improved page load speed ~20% through component-level optimisation; built JWT-secured REST APIs with Node.js and Express.js.
 
 ---
 
-## 💼 Experience
+### Featured Projects
 
-### 📱 Mobile Application Developer — PrograminStudio (Dec 2024 – Apr 2025)
-- Architected and shipped three production React Native apps (including Linco and Kokonano) to Google Play and the App Store.
-- Led a full platform rebuild from scratch, implementing Redux Toolkit and RTL layout with i18n localization.
-- Integrated native Android dependencies in Kotlin for Stripe and PayPal.
+**[TechMarket](https://www.techmarketpk.com)** — MERN Stack
+Second-hand phone marketplace built to solve fraudulent listings in the Pakistan tech-resale market. OTP-based login and automated device/hardware verification cut fraudulent listings by ~30%. RESTful APIs for users, product CRUD and payments; deployed on AWS (EC2 + S3) with GitHub Actions CI/CD.
 
-### 🌐 Web Development Intern — Orbit Cosmos (Sept 2024 – Oct 2024)
-- Reduced page load times by **20%** through lazy loading and image optimization.
-- Built REST APIs secured with JWT authentication using the MERN stack.
+**[Void Ultra](https://play.google.com/store/apps/details?id=com.faiziop05.VoidUltra)** — React Native · Expo · SQLite
+Fully offline, zero-cloud journaling app. Face ID / fingerprint biometric authentication, encrypted local SQLite storage, and a local smart-tagging and search-indexing system for fast retrieval.
 
----
+**[UnPlug](https://play.google.com/store/apps/details?id=com.faiziop05.UnPlug)** — React Native · Firebase · RevenueCat
+Digital-detox and habit-tracking app with gamified XP progression and streaks. Handles authentication, real-time sync and subscription management via RevenueCat; global state managed with Redux Toolkit.
 
-## 📌 Featured Projects
+**[Linco](https://apps.apple.com/gb/app/linco-%D9%84%D9%86%D9%83%D9%88/id6642618924)** — React Native · Kotlin
+Production marketplace app for the Kuwait market. Multi-step Stripe/PayPal checkout with state persistence across sessions; native Android functionality built in Kotlin for performance.
 
-### 🛒 TechMarketPK (Second-Hand Tech Marketplace)
-**Stack:** MERN Stack  
-- Founded and built a dedicated platform to solve spam in tech sales.
-- Engineered automated hardware lookups and identity verification to ensure authentic listings.
-🔗 [Live Website](https://www.techmarketpk.com)
+**[Kokonano](https://apps.apple.com/gb/app/kokonano/id6444721517)** — React Native
+Full rebuild of a live client app with modern UI, micro-animations, full Arabic RTL support and a scalable i18n localisation system — while keeping the legacy version running for existing users.
 
-### 📓 Void Ultra (Private Journal)
-**Stack:** React Native, Expo, SQLite  
-- Fully offline, zero-cloud journal app featuring local SQLite encryption and biometric authentication.
-- Built a local smart tagging and fast search indexing system.
-🔗 [Play Store](https://play.google.com/store/apps/details?id=com.faiziop05.VoidUltra) 
-
-### 🎮 UnPlug (Digital Detox & Habit Tracker)
-**Stack:** React Native, Firebase, RevenueCat  
-- Live on the Play Store, offering gamified habit tracking with XP progression and streaks.
-- Handles secure authentication, real-time sync, and subscription management.
-🔗 [Play Store](https://play.google.com/store/apps/details?id=com.faiziop05.UnPlug)
-
-### 🟢 Linco & Kokonano (Production Client Apps)
-**Stack:** React Native, Redux, Node.js, MongoDB  
-- Built real-time e-commerce platforms serving the GCC market with full Arabic RTL support.
-- Handled native Android integrations and full store release pipelines.
+**[UniTask](https://www.github.com/faiziop05)** — Next.js · TypeScript · Tailwind CSS · Node.js
+Freelance-gig platform connecting students with campus-side project work. JWT auth with bcrypt password hashing and email verification; Stripe escrow-style payments; server-side rendering for fast load times.
 
 ---
 
-## 📊 GitHub Stats
+### GitHub Activity
+
 ![Faizan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=faiziop05&theme=tokyo-night)
 
 ---
 
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/faizanhanif369">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" />
-  </a>
-  <a href="mailto:faizanhanif369@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" />
-  </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/faizanhanif369">LinkedIn</a> ·
+  <a href="mailto:faizanhanif369@gmail.com">faizanhanif369@gmail.com</a>
 </p>
