@@ -114,7 +114,6 @@ Freelance-gig platform for students. JWT auth with bcrypt, Stripe escrow payment
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=faiziop05&hide_border=true&background=FFFFFF&ring=1F4E79&fire=1F4E79&currStreakLabel=1F4E79" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=faiziop05&hide_border=true&background=FFFFFF&ring=1F4E79&fire=1F4E79&currStreakLabel=1F4E79" />
 
 </div>
 
