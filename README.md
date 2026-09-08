@@ -1,6 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1F4E79&height=200&section=header&text=Faizan%20Hanif&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Graduate%20Software%20Engineer%20·%20Full%20Stack%20%26%20Mobile&descAlignY=58&descSize=20&v=1" width="100%" />
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="854" height="200" style="z-index:1;position:relative" viewBox="0 0 854 200">
+        <style>
+      .text {   font-size: 60px;   font-weight: 700;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } .desc {   font-size: 20px;   font-weight: 500;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } 
+      .text, .desc {   animation: fadeIn 1.2s ease-in-out forwards;  } @keyframes fadeIn {   from {     opacity: 0;   }   to {     opacity: 1;   }  } 
+    </style>
+        
+        
+      <g transform="translate(427, 100) scale(1, 1) translate(-427, -100)">
+        <path d="" fill="#1F4E79" opacity="0.4">
+          <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="0s" values="M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z;M0 0L 0 145Q 213.5 160 427 140T 854 130L 854 0 Z;M0 0L 0 165Q 213.5 135 427 165T 854 130L 854 0 Z;M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z">
+          </animate>
+        </path>
+        <path d="" fill="#1F4E79" opacity="0.4">
+          <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s" values="M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z;M0 0L 0 150Q 213.5 120 427 120T 854 140L 854 0 Z;M0 0L 0 145Q 213.5 125 427 150T 854 165L 854 0 Z;M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z">
+          </animate>
+        </path>
+      </g>
+         <text text-anchor="middle" dominant-baseline="middle" x="50%" y="38%" class="text" style="fill:#ffffff;" stroke="#none" stroke-width="1">Faizan Hanif</text>
+        <text text-anchor="middle" dominant-baseline="middle" x="50%" y="58%" class="desc" style="fill:#ffffff;"></text></svg>
 
 <a href="https://faizan-hanif-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-1F4E79?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/faizanhanif369"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
