@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1F4E79&height=200&section=header&text=Faizan%20Hanif&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Graduate%20Software%20Engineer%20·%20Full%20Stack%20%26%20Mobile&descAlignY=58&descSize=20" width="100%" />
-![Profile Header](https://capsule-render.vercel.app/api?type=waving&color=1F4E79&height=200&section=header&text=Faizan%20Hanif&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Graduate%20Software%20Engineer%20·%20Full%20Stack%20%26%20Mobile&descAlignY=58&descSize=20&v=1)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1F4E79&height=200&section=header&text=Faizan%20Hanif&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Graduate%20Software%20Engineer%20·%20Full%20Stack%20%26%20Mobile&descAlignY=58&descSize=20&v=1" width="100%" />
 
 <a href="https://faizan-hanif-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-1F4E79?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/faizanhanif369"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
