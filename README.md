@@ -99,7 +99,7 @@ Full rebuild of a live client app — modern UI, micro-animations, full Arabic R
 </td>
 <td width="50%" valign="top">
 
-**[UniTask](https://www.github.com/faiziop05)**
+**[UniTask](https://www.github.com/faiziop05/UniTask)**
 `Next.js · TypeScript · Node.js`
 Freelance-gig platform for students. JWT auth with bcrypt, Stripe escrow payments, server-side rendering for fast load times.
 
