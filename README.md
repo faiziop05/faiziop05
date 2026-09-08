@@ -108,15 +108,6 @@ Freelance-gig platform for students. JWT auth with bcrypt, Stripe escrow payment
 </tr>
 </table>
 
----
-
-
-</div>
-
-<div align="center">
-
-
-</div>
 
 ---
 
