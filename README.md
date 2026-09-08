@@ -123,7 +123,7 @@ Freelance-gig platform for students. JWT auth with bcrypt, Stripe escrow payment
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=faiziop05&theme=minimal&hide_border=true&color=1F4E79&line=1F4E79&point=333333" width="100%" />
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=faiziop05&theme=minimal&hide_border=true&color=1F4E79&line=1F4E79&point=333333" width="100%" /> -->
 
 </div>
 
