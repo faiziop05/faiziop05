@@ -113,9 +113,7 @@ Freelance-gig platform for students. JWT auth with bcrypt, Stripe escrow payment
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=faiziop05" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiziop05&layout=compact&hide_border=true&title_color=1F4E79&text_color=333333" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=faiziop05&hide_border=true&background=FFFFFF&ring=1F4E79&fire=1F4E79&currStreakLabel=1F4E79" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=faiziop05&hide_border=true&background=FFFFFF&ring=1F4E79&fire=1F4E79&currStreakLabel=1F4E79" />
 
 </div>
