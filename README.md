@@ -129,7 +129,7 @@ Freelance-gig platform for students. JWT auth with bcrypt, Stripe escrow payment
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=faiziop05&theme=flat&no-frame=true&column=7&margin-w=8&margin-h=8" />
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=faiziop05&theme=flat&no-frame=true&column=7&margin-w=8&margin-h=8" /> -->
 
 </div>
 
