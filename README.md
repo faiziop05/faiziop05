@@ -61,10 +61,9 @@ Improved page load speed ~20% through component-level optimisation; built JWT-se
 <tr>
 <td width="50%" valign="top">
 
-**[TechMarket](https://www.techmarketpk.com)**
+**[FestifyEdu](https://frontend-pink-rho-s0gl23uxb5.vercel.app/login)**
 `MERN Stack`
-Second-hand phone marketplace. OTP-based login and automated device/hardware verification cut fraudulent listings by ~30%. Deployed on AWS (EC2 + S3) with GitHub Actions CI/CD.
-
+Built an interactive educational platform for data literacy; implemented role-based access (RBAC) and Google Drive API integration for seamless dataset management. Engineered a live classroom synchronization engine using WebSockets (Socket.IO), incorporating custom load-testing and automated cron jobs to ensure stable, real-time performance under concurrent student loads.
 </td>
 <td width="50%" valign="top">
 
